@@ -183,6 +183,11 @@ IoT와 융합한 응급안전알림서비스
 MQTT CLOUD는 라즈베리파이에서 보낸 데이터를 관리자의 APP으로 전송하는 역할을 한다. 각 기기 간의 중추 서버 기능을 한다.
 APP은 관리자가 사용자의 응급 상황을 파악하여 구조할 수 있게 해준다. 사용자의 현재 온도, GPS좌표를 통한 지도 트래킹, 메시지를 표시한다.
 
+![noname01](https://user-images.githubusercontent.com/50434736/83107851-e7886d00-a0f9-11ea-9734-c4f2d062c7d8.jpg)
+![noname02](https://user-images.githubusercontent.com/50434736/83107861-ece5b780-a0f9-11ea-9b6b-0d94035969e7.jpg)
+![noname04](https://user-images.githubusercontent.com/50434736/83107903-f96a1000-a0f9-11ea-9da0-a75f1b94c579.jpg)
+![noname03](https://user-images.githubusercontent.com/50434736/83107904-fa9b3d00-a0f9-11ea-9d00-05aeac24c4a4.jpg)
+
 
 
 나. 아두이노 모듈
